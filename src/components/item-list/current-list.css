@@ -1,0 +1,11 @@
+.current-list {
+    margin-bottom: 1rem;
+}
+
+.current-list .list-group-item {
+    cursor: pointer;
+}
+
+.current-list .list-group-item:hover {
+    background-color: #444;
+}
